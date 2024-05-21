@@ -1,0 +1,2 @@
+npm start
+ngrok http --domain=next-goshawk-eminent.ngrok-free.app 5001
